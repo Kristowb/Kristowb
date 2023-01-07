@@ -31,4 +31,6 @@ I’m familiar with Object-Oriented Programming and a variety of programming lan
 
 <details>
  <summary><h3>👨‍💻 Kristianto's Coding Journey</h3></summary>
-  -
+  -  I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. And all the while, teaching myself game development with a dream to build my own game app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full- software engineering job upon graduation and that has been my focus ever since. 
+However, I had another desire I had been pursuing throughout this time But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Don't wait up, because I'm coming.
+
