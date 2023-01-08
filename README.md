@@ -1,3 +1,7 @@
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&pause=1000&color=D5F71F&center=true&vCenter=true&width=435&lines=Backend%2FGame+Maker%2FDeveloper;Experienced+Game+Maker;3%2B+years+of+coding+experience;Always+learn+new+things" alt="Typing SVG" /></a>
+</p>
+
 # 🏄‍♂️ Kristianto Wibawa
 
 **`Software Engineer (Developer/Backend/Game Maker)`**
@@ -7,7 +11,7 @@ I'm an indie developer and game maker building my version of the digital world o
 
 I’m familiar with Object-Oriented Programming and a variety of programming languages, including Java, JavaScript, Visual Basic, C#, and C++. I am also experienced in game development using Unreal Engine and Unity. but I’m always adding new skills to my repertoire. I’m also eager to meet other software engineers in the area, so feel free to connect!
 
----
+#
 
 ### 🧰 Languages and Tools
 
@@ -29,8 +33,10 @@ I’m familiar with Object-Oriented Programming and a variety of programming lan
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
 <details>
- <summary><h3>👨‍💻 Kristianto's Coding Journey</h3></summary>
+<summary><h3>👨‍💻 Kristianto's Coding Journey</h3></summary>
   -  I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world. And all the while, teaching myself game development with a dream to build my own game app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full- software engineering job upon graduation and that has been my focus ever since. 
 However, I had another desire I had been pursuing throughout this time But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Don't wait up, because I'm coming.
 
